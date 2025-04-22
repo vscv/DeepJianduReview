@@ -1,5 +1,8 @@
 # DeepJiandu dataset review
 
+
+![image](https://github.com/user-attachments/assets/97e3a7f0-f904-4c73-bddf-3a619ab401eb)
+
 2024-12-31
 简牍文字检测识别数据集 https://www.scidb.cn/detail?dataSetId=7f627b99d06e4430a5e5d21b20614b46
 
